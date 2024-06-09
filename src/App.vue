@@ -8,6 +8,12 @@
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+*{
+  font-family: "Quicksand", sans-serif;
+}
+
   html,
   body,
   div,
@@ -137,4 +143,5 @@
     border-collapse: collapse;
     border-spacing: 0;
   }
+  
 </style>
